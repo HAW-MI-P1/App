@@ -1,0 +1,15 @@
+[submodule "DB-Controller"]
+	path = DB-Controller
+	url = ../DB-Controller.git
+[submodule "Parser"]
+	path = Parser
+	url = ../Parser.git
+[submodule "Controller"]
+	path = Controller
+	url = ../Controller.git
+[submodule "FacebookWrapper"]
+	path = FacebookWrapper
+	url = ../FacebookWrapper.git
+[submodule "gui"]
+	path = gui
+	url = ../gui.git
