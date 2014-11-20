@@ -45,7 +45,9 @@ public class Main
 		System.out.println("Search 4 Facebook, Version 0.01");
 		
 		GUI gui = buildTest1();
+		
 		test1(gui);
+		//gui.run/show/fireUp();
 	}
 	
 	public static GUI buildProduction()
